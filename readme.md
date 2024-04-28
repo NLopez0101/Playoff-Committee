@@ -10,6 +10,10 @@ Download <a href="https://github.com/xerial/sqlite-jdbc/releases/tag/3.32.3.2">s
 
 More coming...
 
+<b>Instructions</b>
+
+More coming...
+
 <b>Team</b>
 
 Nathangel Lopez (Team Leader) - <a href="https://github.com/NLopez0101">NLOPEZ0101</a><br>
