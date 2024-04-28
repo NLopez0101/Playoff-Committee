@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="slideDos">
+   <children>
+      <Button fx:id="simulate" layoutX="263.0" layoutY="257.0" mnemonicParsing="false" onAction="#handleSimulate" text="simulate" />
+      <Text fx:id="scoreOne" layoutX="77.0" layoutY="45.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Score" visible="false" />
+      <Text fx:id="scoreTwo" layoutX="493.0" layoutY="45.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Score" visible="false" />
+      <Label fx:id="numbersOne" layoutX="78.0" layoutY="64.0" text="Label" visible="false" />
+      <Label fx:id="numbersTwo" layoutX="494.0" layoutY="64.0" text="Label" visible="false" />
+      <Label fx:id="teamOne" layoutX="83.0" layoutY="148.0" prefHeight="43.0" prefWidth="85.0" text="Label" visible="false" />
+      <Label fx:id="teamThree" layoutX="479.0" layoutY="148.0" prefHeight="43.0" prefWidth="85.0" text="Label" visible="false" />
+      <Label fx:id="teamTwo" layoutX="83.0" layoutY="213.0" prefHeight="43.0" prefWidth="85.0" text="Label" visible="false" />
+      <Label fx:id="teamFour" layoutX="479.0" layoutY="213.0" prefHeight="43.0" prefWidth="85.0" text="Label" visible="false" />
+      <Text fx:id="vsOne" layoutX="83.0" layoutY="205.0" strokeType="OUTSIDE" strokeWidth="0.0" text="VS">
+         <font>
+            <Font name="System Bold Italic" size="12.0" />
+         </font></Text>
+      <Text fx:id="vsTwo" layoutX="499.0" layoutY="205.0" strokeType="OUTSIDE" strokeWidth="0.0" text="VS">
+         <font>
+            <Font name="System Bold Italic" size="12.0" />
+         </font></Text>
+      <Button fx:id="nextButton" layoutX="272.0" layoutY="302.0" mnemonicParsing="false" onAction="#handleNextButton" text="Next" />
+      <Text layoutX="191.0" layoutY="116.0" strokeType="OUTSIDE" strokeWidth="0.0" text="College Football Playoff Semi-Finals" underline="true">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
