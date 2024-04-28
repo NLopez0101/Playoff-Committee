@@ -6,6 +6,8 @@ five conferences.
 
 <b>Requirements</b>
 
+This app has 100% functionality.
+
 Download <a href="https://github.com/xerial/sqlite-jdbc/releases/tag/3.32.3.2">sqlite-jdbc-3.32.3.2.jar</a>. Add as CLASSPATH in JGRASP.<br>
 JavaFX Modules: javafx.controls, javafx.fxml
 
