@@ -9,11 +9,20 @@ five conferences.
 Download <a href="https://github.com/xerial/sqlite-jdbc/releases/tag/3.32.3.2">sqlite-jdbc-3.32.3.2.jar</a>. Add as CLASSPATH in JGRASP.<br>
 JavaFX Modules: javafx.controls, javafx.fxml
 
-More coming...
+<b>Installation Instructions</b>
 
-<b>Instructions</b>
+Download all files.
 
-More coming...
+All files should be located in one folder, including the image file "cfp.png".
+Another folder should be included inside this folder named "resources".
+The "resources" folder should only include the football.db file.
+
+<b>App Instructions</b>
+
+Click Slide1.java to start the app.
+
+In Slide1.java, click Simulate to populate four teams. After populating teams, click Simulate again. Scores for both games will be displayed. The winner of each game will be displayed on the next slide. After clicking next, the winners of both games are pitted against each other in a playoff game. Clicking Simulate displays the score of this game. Clicking Next, displays the champion and the final score.
+
 
 <b>Team</b>
 
