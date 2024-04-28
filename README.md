@@ -1,2 +1,1 @@
-# Playoff-Committee
-Group Project Code for MGIS 3353
+DELETE THIS README
