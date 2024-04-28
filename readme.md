@@ -21,7 +21,7 @@ The "resources" folder should only include the football.db file.
 
 Click Slide1.java to start the app.
 
-In Slide1.java, click Simulate to populate four teams. Aftewards, click NEXT to see which teams are in the finals. Click Next Round to simulate final score. After populating teams, click Simulate again. Scores for both games will be displayed. The winner of each game will be displayed on the next slide. After clicking next, the winners of both games are pitted against each other in a playoff game. Clicking Simulate displays the score of this game. Clicking Next, displays the champion and the final score.
+In Slide1.java, click Simulate to populate four teams. Aftewards, click NEXT to see which teams are in the finals. Click Next Round to simulate final score. After populating teams, click Simulate again. Scores for both games will be displayed. Click Next to see the winner and the final score. The winner of each game will be displayed on the next slide. After clicking next, the winners of both games are pitted against each other in a playoff game. Clicking Simulate displays the score of this game. Clicking Next, displays the champion and the final score.
 
 
 <b>Team</b>
